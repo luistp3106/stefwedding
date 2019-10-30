@@ -180,7 +180,7 @@ button:focus {
   padding: 0px;
   border: 0px;
   border-radius: 0px;
-margin-left: -550px;
+
 
 }
 
@@ -3817,7 +3817,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Footer Area css
 ============================================================================================ */
 .footer_inner {
-  background: #f9f9ff;
+  background: #ffffff;
   text-align: center;
 }
 
@@ -3847,7 +3847,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer_inner .f_menu li:hover a {
-  color: #ff2f92;
+  color: #9933CC;
 }
 
 .footer_inner p {
@@ -3858,11 +3858,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer_inner p i {
-  color: #ff2f92;
+  color: #9933CC;
 }
 
 .footer_inner p a {
-  color: #ff2f92;
+  color: #9933CC;
 }
 
 .f_social {
@@ -3884,7 +3884,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .f_social li:hover a {
-  color: #ff2f92;
+  color: #9933CC;
 }
 
 /* End Footer Area css
