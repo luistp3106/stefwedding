@@ -384,16 +384,16 @@ button:focus {
 }
 
 .top_menu .ac_btn:hover {
-  background: #ff2f92;
+  background: #9933CC;
   color: #fff;
-  border-color: #ff2f92;
+  border-color: #9933CC;
 }
 
 .top_menu .dn_btn {
   line-height: 28px;
-  border: 1px solid #ff2f92;
+  border: 1px solid #9933CC;
   display: inline-block;
-  background: #ff2f92;
+  background: #9933CC;
   padding: 0px 19px;
   font-size: 12px;
   font-family: "Roboto", sans-serif;
@@ -407,7 +407,7 @@ button:focus {
 .top_menu .dn_btn:hover {
   background: transparent;
   color: #777777;
-  border-color: #ff2f92;
+  border-color: #9933CC;
 }
 
 .top_menu .lan_pack {
@@ -421,7 +421,7 @@ button:focus {
   padding-left: 19px;
   padding-right: 36px;
   color: #777777;
-  background: #f9f9ff;
+  background: #9933CC;
   margin-right: 5px;
   margin-top: 8px;
 }
